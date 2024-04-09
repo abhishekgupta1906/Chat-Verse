@@ -21,3 +21,7 @@ npm run build
 ```shell
 npm start
 ```
+
+# Screenshots
+
+![Screenshot 2024-04-10 032433](https://github.com/abhishekgupta1906/Chat-Verse/assets/122986855/b825eced-7d79-4175-aabf-19c361ff6ae7)
